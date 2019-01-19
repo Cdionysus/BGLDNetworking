@@ -23,6 +23,7 @@
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
+		934D504C21F2D32200F71FB3 /* BGLDNetworking.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 934D504B21F2D32200F71FB3 /* BGLDNetworking.podspec */; };
 		CFAEEF47AD5723B25E02CD49 /* Pods_BGLDNetworking_kit_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E30958FBD56D0210D3DFADA /* Pods_BGLDNetworking_kit_Tests.framework */; };
 /* End PBXBuildFile section */
 
@@ -63,7 +64,7 @@
 		6DA0B708F254C32F52C2F9D9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B8B52369D7888F68991767AD /* BGLDNetworking-kit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "BGLDNetworking-kit.podspec"; path = "../BGLDNetworking-kit.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		934D504B21F2D32200F71FB3 /* BGLDNetworking.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = BGLDNetworking.podspec; path = ../BGLDNetworking.podspec; sourceTree = "<group>"; };
 		CE0A1BE02EFEC205B265D598 /* Pods-BGLDNetworking-kit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGLDNetworking-kit_Example.debug.xcconfig"; path = "Target Support Files/Pods-BGLDNetworking-kit_Example/Pods-BGLDNetworking-kit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		CE46509C777840AB0C079AE6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E6ED525AA4A889B09147B85E /* Pods-BGLDNetworking-kit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGLDNetworking-kit_Example.release.xcconfig"; path = "Target Support Files/Pods-BGLDNetworking-kit_Example/Pods-BGLDNetworking-kit_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -178,7 +179,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				B8B52369D7888F68991767AD /* BGLDNetworking-kit.podspec */,
+				934D504B21F2D32200F71FB3 /* BGLDNetworking.podspec */,
 				6DA0B708F254C32F52C2F9D9 /* README.md */,
 				CE46509C777840AB0C079AE6 /* LICENSE */,
 			);
@@ -278,6 +279,7 @@
 			files = (
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
+				934D504C21F2D32200F71FB3 /* BGLDNetworking.podspec in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
 			);

@@ -42,24 +42,24 @@
 		0BC28BCB33C129C4A8FCB3B45DB8E72E /* Pods-BGLDNetworking-kit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BGLDNetworking-kit_Example-frameworks.sh"; sourceTree = "<group>"; };
 		128DB1F060F66D4659E881E50483CCF1 /* Pods-BGLDNetworking-kit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BGLDNetworking-kit_Example-umbrella.h"; sourceTree = "<group>"; };
 		18849B4731AC0110826A1D0057DE5A58 /* Pods-BGLDNetworking-kit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BGLDNetworking-kit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		20A34609B91C8996CE6E5F3BE7236A9F /* Pods_BGLDNetworking_kit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BGLDNetworking_kit_Tests.framework; path = "Pods-BGLDNetworking-kit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		20A34609B91C8996CE6E5F3BE7236A9F /* Pods_BGLDNetworking_kit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BGLDNetworking_kit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		26384F17A8D87CE8D3F3CFA072BF4BCA /* Pods-BGLDNetworking-kit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BGLDNetworking-kit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		28DC01C47EB1514061B50FF2348586FD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		28DC01C47EB1514061B50FF2348586FD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2D95D11A009741B9DE69D18D62ECA584 /* Pods-BGLDNetworking-kit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BGLDNetworking-kit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		2FF6B8BC2D4AB8597D7E1259C2F03763 /* BGLDNetworking-kit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "BGLDNetworking-kit.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2FF6B8BC2D4AB8597D7E1259C2F03763 /* BGLDNetworking.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = BGLDNetworking.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		4D26906C70ADD4CB2643062284FB736E /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = "BGLDNetworking-kit/Classes/ReplaceMe.m"; sourceTree = "<group>"; };
 		58D794E0519A56125A14EBE95FD6C759 /* Pods-BGLDNetworking-kit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BGLDNetworking-kit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		69D0AA3785D97A571CFD97AFB9394C14 /* Pods-BGLDNetworking-kit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BGLDNetworking-kit_Tests-umbrella.h"; sourceTree = "<group>"; };
-		6A7C30A66B1C7F7F2960DFB71A5408E4 /* Pods_BGLDNetworking_kit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BGLDNetworking_kit_Example.framework; path = "Pods-BGLDNetworking-kit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A7C30A66B1C7F7F2960DFB71A5408E4 /* Pods_BGLDNetworking_kit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BGLDNetworking_kit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C6E77444141BFAD18732FCCE5505B9A /* BGLDNetworking-kit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "BGLDNetworking-kit.xcconfig"; sourceTree = "<group>"; };
 		729847285FB859BAF3D199C4C8FD094D /* BGLDNetworking-kit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "BGLDNetworking-kit.modulemap"; sourceTree = "<group>"; };
-		72ACC0AE2DBF59DCE94BB016273AC5B3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		72ACC0AE2DBF59DCE94BB016273AC5B3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		77A0E9F93CF271AE77D2AC5501323235 /* BGLDNetworking-kit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BGLDNetworking-kit-umbrella.h"; sourceTree = "<group>"; };
 		831EA133680007678B13E4C488A933D2 /* BGLDNetworking-kit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "BGLDNetworking-kit-Info.plist"; sourceTree = "<group>"; };
-		9D3FE11B2D8858F0644354E6ECD74E9D /* BGLDNetworking_kit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BGLDNetworking_kit.framework; path = "BGLDNetworking-kit.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D3FE11B2D8858F0644354E6ECD74E9D /* BGLDNetworking_kit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BGLDNetworking_kit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EEE8963EF991506C11385F334718431 /* BGLDNetworking-kit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BGLDNetworking-kit-prefix.pch"; sourceTree = "<group>"; };
 		ACCC5F7E24B04564860E2EC23683087E /* Pods-BGLDNetworking-kit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-BGLDNetworking-kit_Example.modulemap"; sourceTree = "<group>"; };
-		B36AB396275697EEE1A5B13BA8A38FE3 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B36AB396275697EEE1A5B13BA8A38FE3 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C3C9405AF1364205503AD10AA9DEAF87 /* Pods-BGLDNetworking-kit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BGLDNetworking-kit_Tests-dummy.m"; sourceTree = "<group>"; };
 		C4B13B866486F0B1614DE11E1C1D17E6 /* Pods-BGLDNetworking-kit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BGLDNetworking-kit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C7442A681337B5F78B06DBB4B5807138 /* Pods-BGLDNetworking-kit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BGLDNetworking-kit_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 		05B6EA7ECA74016BE1A4DB86914DBBFD /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				2FF6B8BC2D4AB8597D7E1259C2F03763 /* BGLDNetworking-kit.podspec */,
+				2FF6B8BC2D4AB8597D7E1259C2F03763 /* BGLDNetworking.podspec */,
 				72ACC0AE2DBF59DCE94BB016273AC5B3 /* LICENSE */,
 				28DC01C47EB1514061B50FF2348586FD /* README.md */,
 			);
