@@ -60,12 +60,12 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		67E83D0EE24DAB26C6DD81D1 /* Pods-BGLDNetworking-kit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGLDNetworking-kit_Tests.debug.xcconfig"; path = "Target Support Files/Pods-BGLDNetworking-kit_Tests/Pods-BGLDNetworking-kit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		6DA0B708F254C32F52C2F9D9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		6DA0B708F254C32F52C2F9D9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B8B52369D7888F68991767AD /* BGLDNetworking-kit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = "BGLDNetworking-kit.podspec"; path = "../BGLDNetworking-kit.podspec"; sourceTree = "<group>"; };
+		B8B52369D7888F68991767AD /* BGLDNetworking-kit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "BGLDNetworking-kit.podspec"; path = "../BGLDNetworking-kit.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CE0A1BE02EFEC205B265D598 /* Pods-BGLDNetworking-kit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGLDNetworking-kit_Example.debug.xcconfig"; path = "Target Support Files/Pods-BGLDNetworking-kit_Example/Pods-BGLDNetworking-kit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		CE46509C777840AB0C079AE6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		CE46509C777840AB0C079AE6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E6ED525AA4A889B09147B85E /* Pods-BGLDNetworking-kit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGLDNetworking-kit_Example.release.xcconfig"; path = "Target Support Files/Pods-BGLDNetworking-kit_Example/Pods-BGLDNetworking-kit_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -193,7 +193,6 @@
 				67E83D0EE24DAB26C6DD81D1 /* Pods-BGLDNetworking-kit_Tests.debug.xcconfig */,
 				39280C0F0C394383C8C4106C /* Pods-BGLDNetworking-kit_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -300,15 +299,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-BGLDNetworking-kit_Example/Pods-BGLDNetworking-kit_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/BGLDNetworking-kit/BGLDNetworking_kit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/BGLDNetworking_kit.framework",
 			);
@@ -322,15 +317,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-BGLDNetworking-kit_Tests-checkManifestLockResult.txt",
 			);
@@ -344,15 +335,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-BGLDNetworking-kit_Example-checkManifestLockResult.txt",
 			);

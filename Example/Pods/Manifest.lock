@@ -1,0 +1,16 @@
+PODS:
+  - BGLDNetworking-kit (0.1.0)
+
+DEPENDENCIES:
+  - BGLDNetworking-kit (from `../`)
+
+EXTERNAL SOURCES:
+  BGLDNetworking-kit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BGLDNetworking-kit: b2bfa7f9690507fe8894d5e05de67d92ca38f78b
+
+PODFILE CHECKSUM: 3d613a4a7a3c46c8ddc0d3fe6234f100410c12b9
+
+COCOAPODS: 1.6.0.beta.2
