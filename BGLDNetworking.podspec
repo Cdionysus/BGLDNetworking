@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'BGLDNetworking'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of BGLDNetworking-kit.'
+  s.summary          = '网络请求组件SDK'
 
   s.homepage         = 'https://github.com/Cdionysus/BGLDNetworking'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
